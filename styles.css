@@ -54,7 +54,7 @@ body{
 }
 .controls__color:hover{
     transform: scale(1.2);
-
+}
 .controls__range{
     all: unset;
     margin-bottom: 30px;
